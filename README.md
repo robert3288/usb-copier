@@ -9,6 +9,7 @@ A simple Windows app for copying files to multiple USB drives.
 5. Select the number of drives that will be copied to concurrently
 6. Click Copy to begin copying
 
+
 Planned features
 - Selecting folders will copy the folder and all files within it
 - Selecting files an additional time will not clear previously added files
